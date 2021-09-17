@@ -32,8 +32,7 @@
 
 
 
-
-echo '<iframe width="1200" height="548" src="https://www.youtube.com/embed/H6iy5gfNIns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+echo '<iframe width="1200" height="548" src="https://www.youtube.com/embed/AmrqqEpalWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 						// Add Thread
 						if(isset($_POST['addReply'])){
 							$title=mysqli_escape_string($con,$_POST['title']);

@@ -52,7 +52,7 @@
 												<td><input type="text" name="email" class="form-control" value="<?php echo $userData['allData']['email']; ?>" /></td>
 											</tr>
 											<tr>
-												<th>Address</th>
+												<th>Description</th>
 												<td><textarea name="address" class="form-control"><?php echo $userData['allData']['address']; ?></textarea></td>
 											</tr>
 											<tr>

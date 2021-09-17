@@ -55,7 +55,7 @@
 									<td><input type="password" class="form-control" name="cpwd" /></td>
 								</tr>
 								<tr>
-									<th>Address</th>
+									<th>Description</th>
 									<td><textarea class="form-control" name="address"></textarea></td>
 								</tr>
 								<tr>
